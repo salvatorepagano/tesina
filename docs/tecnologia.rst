@@ -24,6 +24,8 @@ Però lo shuttle non parte direttamente dallo spazio ma da una base a terra.
 Aerei Spaziali
 ==============
 
+.. image:: _images/shuttle.png
+
 Per far arrivare nello spazio persone o cose si utilizzano i razzi vettori che partono dal terreno, ma negli ultimi anni al posto delle rampe di lancio a terra si utilizzano rampe di lancio volanti.
 
 Le rampe di lancio volanti sono aerei con un’apertura alare più ampia che portano lo shuttle a un’altezza di 20km.
