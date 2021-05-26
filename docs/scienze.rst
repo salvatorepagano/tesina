@@ -31,4 +31,4 @@ Gli scienziati hanno formulato varie teorie sull'evoluzione dell'universo:
 
 * che l’energia dell’esplosione dopo che terminerà l’universo ritornerà a compattarsi come allo stato iniziale e quindi ricomincerà il ciclo.
 
-* che l‘universo avrebbe continuato ad espandersi all‘infinito.
+* che l‘universo continuerà ad espandersi all‘infinito.
