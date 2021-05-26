@@ -2,17 +2,22 @@
 Francese
 ========
 
-.. image:: _images/petitprince1.png
-
 Le Livre
 ========
-**Le Petit Prince** est une histoire pour enfants écrite en 1942 par Antoine de Saint-Exupéry.
+**Le Petit Prince** est une histoire pour enfants écrite en 1942 par **Antoine de Saint-Exupéry**.
+
 Publié en 1943 à New York simultanément à sa traduction anglaise, c'est une œuvre poétique et philosophique sous l'apparence d'un conte pour enfants.
+
 Traduit en quatre cent cinquante-sept langues et dialectes, Le Petit Prince est le deuxième ouvrage le plus traduit au monde après la Bible.
+
+.. image:: _images/lepetitprince1.jpg
+   :height: 300px
+   :align: center
 
 Le Roi
 ======
 .. image:: _images/petitprince_leroi.png
+   :align: center
 
 .. code-block::
 
@@ -39,6 +44,8 @@ demande le petit prince de rester avec lui.
 Le Van
 ======
 .. image:: _images/petitprince_levain.png
+   :align: center
+   :height: 400px
 
 .. code-block::
 
@@ -51,6 +58,7 @@ L'ivrogne
 =========
 
 .. image:: _images/petitprince_livrogne.png
+   :align: center
 
 .. code-block::
 

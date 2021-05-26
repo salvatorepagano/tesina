@@ -6,6 +6,7 @@ The history of NASA
 ===================
 
 .. image:: _images/nasa.png
+   :align: center
 
 Beginning in 1946, the National Advisory Committee for Aeronautics (NACA) began experimenting with rocket planes such as the supersonic Bell X-1.
 
@@ -23,6 +24,7 @@ The birth of NASA
 =================
 
 .. image:: _images/nasa2.png
+   :align: center
 
 When NASA opened for business on October, 1958, it accelerated the work already started on human and robotic spaceflight.
 
@@ -40,6 +42,8 @@ Why NASA was created
 ====================
 
 .. image:: _images/nasa3.png
+   :align: center
+   :height: 200px
 
 NASA was created largely in response to the Soviet launching of Sputnik in 1957.
 

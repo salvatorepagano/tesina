@@ -2,12 +2,10 @@
 Storia
 =======
 
-.. image:: _images/viaggioluna.png
-
 Il primo viaggio sulla luna
 ===========================
 
-Apollo 11 fu la missione spaziale che portò i primi uomini sulla Luna, gli astronauti statunitensi Neil Armstrong e Buzz Aldrin, il 20 luglio 1969 alle 20:17:40 UTC.
+**Apollo 11** fu la missione spaziale che portò i primi uomini sulla Luna, gli astronauti statunitensi **Neil Armstrong** e **Buzz Aldrin**, il 20 luglio 1969 alle 20:17:40 UTC.
 
 Armstrong fu il primo a mettere piede sul suolo lunare, sei ore più tardi dell'allunaggio, il 21 luglio alle ore 02:56 UTC. Aldrin arrivò 19 minuti dopo.
 
@@ -15,12 +13,13 @@ L'avventura di Apollo 11 inizia dal Kennedy Space Center, in Florida.
 
 La navicella
 ------------
-
 La navicella è composta da tre parti: un modulo di comando (CM) con una cabina pressurizzata per i tre astronauti, un modulo di servizio (SM) e un modulo lunare (LM).
 
 L'equipaggio
 ------------
 L'equipaggio è composto da tre astronauti: il comandante Neil Armstrong, Michael Collins, pilota del modulo di comando, ed Edwin Aldrin, il pilota del modulo lunare.
+
+.. image:: _images/viaggioluna.png
 
 La Missione
 -----------
