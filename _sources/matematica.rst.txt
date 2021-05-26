@@ -3,6 +3,7 @@ Matematica
 ==========
 
 .. image:: _images/numeroinfinito.png
+   :align: center
 
 L'origine del simbolo dell’infinito
 ===================================
