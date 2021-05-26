@@ -5,7 +5,7 @@ L'Universo
 
 **Mappa Concettuale**
 
-.. image:: _images/mappa_concettuale.png
+.. image:: _images/mappa_concettuale.jpg
 
 
 .. toctree::

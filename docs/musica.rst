@@ -6,6 +6,7 @@ Musica
 ===========================
 
 .. image:: _images/odisseaspazio.png
+   :align: center
 
 **2001: Odissea nello spazio** è un film che ha contribuito notevolmente alla notorietà di una delle sue colonne sonore: l'opera musicale **«Così parlò Zarathustra»**.
 
