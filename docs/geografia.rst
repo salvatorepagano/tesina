@@ -5,8 +5,6 @@ Geografia
 La Florida
 ==========
 
-.. image:: _images/florida.png
-
 Territorio e Ambiente
 ---------------------
 
@@ -20,6 +18,10 @@ Il territorio è quasi completamente pianeggiante, sono presenti infatti solo al
 I fiumi principali sono il **Saint Johns**, il **Caloosahatchee**, il **Suwannee** e l'**Apalachicola**.
 
 Dal sottosuolo si estraggono **fosfati** e **minerali di titanio**.
+
+.. image:: _images/florida.png
+   :align: center
+   :height: 250px
 
 Economia
 --------

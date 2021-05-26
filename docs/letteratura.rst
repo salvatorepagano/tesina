@@ -2,8 +2,6 @@
 Italiano
 ========
 
-.. image:: _images/italocalvino.png
-
 ITALO CALVINO (1923-1980)
 =========================
 
@@ -13,6 +11,9 @@ Ha seguito molte delle principali tendenze letterarie a lui coeve, dal Neorealis
 ricerca personale e coerente.
 
 Ma oggi noi ci soffermeremo in particolare su una sua opera: “LE COSMICOMICHE”
+
+.. image:: _images/italocalvino.png
+   :align: center
 
 Le Cosmicomiche
 ===============
