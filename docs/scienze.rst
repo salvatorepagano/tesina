@@ -19,7 +19,7 @@ temperatura e densità estreme, e che questo processo continui tuttora.
 
 Gli scienziati lavorano senza sosta per capire cosa avesse formato quest’immane esplosione ma ancora oggi è un campo ignoto.
 
-Una teoria la più sensata fino ad ora dice che l’universo era compattato in un piccolissimo spazio ad elevatissime temperature.
+Una teoria, la più sensata fino ad ora, dice che l’universo era compattato in un piccolissimo spazio ad elevatissime temperature.
 
 Poi circa 4,6 miliardi di anni fa avvenne un immane esplosione ( il Big Bang ) che proiettò tutta la materia nell’infinito dell’universo.
 
