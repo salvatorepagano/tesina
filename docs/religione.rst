@@ -5,6 +5,10 @@ Religione
 Le discordanze tra Galileo Galilei e la chiesa
 ==============================================
 
+ image:: _images/Galileo Galilei.png
+   :align: center
+   :height: 400px
+
 **Galileo** era un matematico, un’astronomo e un filosofo.
 
 Nel periodo del 1610 pubblicò il testo scientifico «**Sidereus Nuncius**» che andava contro tutti i criteri della chiesa che pensava che la Terra fosse al centro di tutto e quindi erano gli altri pianeti (compreso il sole) a girare intorno ad essa, Galileo invece diceva che era il contrario ed era il Sole al centro di tutto e la Terra ruotava intorno ad esso. 
