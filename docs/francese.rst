@@ -41,7 +41,7 @@ Cette phrase et cette image nous font réaliser deux choses: le désir infini et
 l'univers quelque chose de tout à fait impossible et on remarque aussi dans l'image que pour cette manie du pouvoir il est isolé de tout et à la fin du chapitre il
 demande le petit prince de rester avec lui.
 
-Le Van
+Le Vain
 ======
 .. image:: _images/petitprince_levain.png
    :align: center
@@ -54,7 +54,7 @@ Le Van
 Cette autre image et cette phrase nous font plutôt comprendre une chose de plus: ce que signifie être vain, cela signifie se croire le plus beau, le plus intelligent de l'univers,
 ce qui conduit à penser que tous les autres sont inférieurs à vous et comme dans le premier cas ça .conduit à s'isoler.
 
-L'ivrogne
+L'Ivrogne
 =========
 
 .. image:: _images/petitprince_livrogne.png
