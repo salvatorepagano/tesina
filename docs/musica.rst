@@ -21,9 +21,12 @@ Il brano dura circa trenta minuti ed è diviso in nove movimenti, con diversi ri
 Il testo all’inizio è composto da  quasi dieci secondi di un **rombo** lontano, che si può scambiare per un disturbo o un’interferenza ma è il tremolo grave degli **archi**;
 poi l’**organo** che, dopo la celeberrima esposizione, inaspettatamente risuona solo contribuendo a collocare tutta la prima parte in un clima rigorosamente **cosmico**.
 
-Nel suo svolgersi il poema cambia facce ed atmosfere. Il tema iniziale di tre suoni diventa soggetto di severe elaborazioni contrappuntistiche, la musica scorre tra
-**esplosioni sinfoniche cenni teatrali e flash cameristici**.
+Nel suo svolgersi il poema cambia facce ed atmosfere. Il tema iniziale di tre suoni diventa soggetto di severe **elaborazioni contrappuntistiche** [#f1]_, la musica scorre tra
+**esplosioni sinfoniche, cenni teatrali e flash cameristici**. [#f2]_
 
 Non manca neppure un veracissimo valzer viennese intonato prima dal violino solo e sviluppato gradualmente dall’ensemble con richiami a Brahms e Dvořàk.
 
 .. image:: _images/Strauss_APZ.jpg
+
+.. [#f1] **Contrappunto**: arte di combinare con una data melodia una o più melodie, più o meno autonome.
+.. [#f2] **Musica da camera**: qualsiasi tipo di musica destinato ad un complesso limitato di esecutori.
