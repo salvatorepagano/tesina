@@ -5,7 +5,7 @@ Religione
 Le discordanze tra Galileo Galilei e la chiesa
 ==============================================
 
- image:: https://images.app.goo.gl/1KYnovVZHe4MhpPu9
+ image:: _images/GalileoGalilei.jpg
    :align: center
    :height: 400px
 
