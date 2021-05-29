@@ -5,7 +5,7 @@ Oggi vi presenterò la mia tesina che parla dell’**Universo** e di tutto ciò 
 
 Ho scelto quest’argomento perché fin da bambino sono stato sempre affascinato da tutto ciò di cui è composto l’Universo, pianeti, stelle, galassie, buchi neri, Via Lattea ecc... 
 
-Tutto ciò che ci compone secondo la tesi più avvalorata dagli scienziati è iniziato dal **Big Bang** che ha composto tutta la materia che conosciamo (l'Universo).
+ La tesi più avvalorata dagli scienziati dice che il **Big Bang** che ha composto tutta la materia che conosciamo (l'Universo).
 
 Su l'Universo l’uomo ha creato molte storie, miti e musiche come il capolavoro "**Così parlò Zarathustra**".
 
