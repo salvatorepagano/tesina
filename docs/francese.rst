@@ -42,7 +42,7 @@ l'univers quelque chose de tout à fait impossible et on remarque aussi dans l'i
 demande le petit prince de rester avec lui.
 
 Le Vain
-======
+=======
 .. image:: _images/petitprince_levain.png
    :align: center
    :height: 400px
