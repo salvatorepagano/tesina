@@ -24,3 +24,5 @@ Per tale motivo gli antichi greci bandirono lo zero dagli altri numeri perché e
 Invece i matematici indiani, già nel sesto secolo d.C., in una prospettiva matematica più  raffinata, utilizzarono questa divisione (impropriamente) come definizione dell’**infinito**.
 
 Nell’ambito della teoria dei limiti si dimostra che il limite per x tendente a zero di N/x è uguale a **infinito** ma non si può dire che un numero diviso zero fa infinito.
+
+.. image:: _images/limitematematica.jpg
