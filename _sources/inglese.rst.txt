@@ -8,8 +8,6 @@ The history of NASA
 .. image:: _images/nasa.png
    :align: center
 
-Beginning in 1946, the National Advisory Committee for Aeronautics (NACA) began experimenting with rocket planes such as the supersonic Bell X-1.
-
 In the early 1950s, there was challenge to launch an artificial satellite for the International Geophysical Year (1957–1958). An effort for this was the American Project Vanguard.
 
 After the Soviet space program's launch of the world's first artificial satellite (Sputnik 1) on October 4, 1957, the attention of the United States turned toward its own fledgling space efforts.
