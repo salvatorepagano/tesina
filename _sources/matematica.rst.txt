@@ -26,3 +26,5 @@ Invece i matematici indiani, già nel sesto secolo d.C., in una prospettiva mate
 Nell’ambito della teoria dei limiti si dimostra che il limite per x tendente a zero di N/x è uguale a **infinito** ma non si può dire che un numero diviso zero fa infinito.
 
 .. image:: _images/limitematematica.jpg
+   :align: center
+   :scale: 70 %

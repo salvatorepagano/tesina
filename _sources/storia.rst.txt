@@ -7,38 +7,40 @@ Il primo viaggio sulla luna
 
 **Apollo 11** fu la missione spaziale che portò i primi uomini sulla Luna, gli astronauti statunitensi **Neil Armstrong** e **Buzz Aldrin**, il 20 luglio 1969 alle 20:17:40 UTC.
 
-Armstrong fu il primo a mettere piede sul suolo lunare, sei ore più tardi dell'allunaggio, il 21 luglio alle ore 02:56 UTC. Aldrin arrivò 19 minuti dopo.
+**Armstrong** fu il primo a mettere piede sul suolo lunare sei ore più tardi dell'allunaggio, il 21 luglio alle ore 02:56 UTC. **Aldrin** arrivò 19 minuti dopo.
 
-L'avventura di Apollo 11 inizia dal Kennedy Space Center, in Florida.
+L'avventura di **Apollo 11** iniziò dal Kennedy Space Center, in Florida.
 
 La navicella
 ------------
-La navicella è composta da tre parti: un modulo di comando (CM) con una cabina pressurizzata per i tre astronauti, un modulo di servizio (SM) e un modulo lunare (LM).
+La navicella era composta da tre parti: un modulo di comando (CM) con una cabina pressurizzata per i tre astronauti, un modulo di servizio (SM) e un modulo lunare (LM).
 
 L'equipaggio
 ------------
-L'equipaggio è composto da tre astronauti: il comandante Neil Armstrong, Michael Collins, pilota del modulo di comando, ed Edwin Aldrin, il pilota del modulo lunare.
+L'equipaggio era composto da tre astronauti: il comandante **Neil Armstrong**, **Michael Collins**, pilota del modulo di comando Columbia ed **Edwin Aldrin**, pilota del modulo lunare Eagle.
 
 .. image:: _images/viaggioluna.png
 
 La Missione
 -----------
-La missione prende avvio ufficialmente il 16 luglio alle 13.32 UTC, quando il razzo vettore 'Saturn V' dalla piattaforma di lancio 39A lancia la navicella.
+La missione prese avvio ufficialmente il 16 luglio alle 13.32 UTC, quando il razzo vettore 'Saturn V' dalla piattaforma di lancio 39A lanciò la navicella.
 
 Dopo un viaggio di quattro giorni durante la discesa verso la luna ci fu un unico problema che fu corretto da Aldrin.
 
-Durante il distacco del modulo Eagle da quello di comando non fu sfiatato un sistema di ritenuta pressione, che determinò una spinta superiore a quella calcolata aumenta
-la velocità di discesa dell’Eagle. Un secondo intervento in quanto LM si stava dirigendo in una zona piena di crateri che durante l’atterraggio potevano danneggiare l’Eagle.
+Durante il distacco del modulo lunare Eagle da quello di comando non fu sfiatato un sistema di ritenuta pressione e ciò determinò una spinta superiore a quella calcolata aumentando
+la velocità di discesa dell’Eagle. Un secondo intervento fu necessario in quanto il modulo lunare si stava dirigendo in una zona piena di crateri che durante l’atterraggio
+potevano danneggiare l’Eagle. A 13 km dal suolo il comandante **Neil Armstrong**  prese allora i comandi manuali e cercò un posto migliore dove atterrare, il cosiddetto “Mare della Tranquillità”.
 
-Dopo qualche ora, ci fu la prima passeggiata lunare, durante la quale piantarono a terra la bandiera americana come simbolo per aver battuto i russi nella gara su chi arrivava prima sulla Luna.
+Dopo qualche ora ci fu la prima passeggiata lunare durante la quale fu piantata sul suolo lunare la bandiera americana anche come simbolo per aver battuto i russi nella gara
+su chi arrivava prima sulla Luna.
 
-Fu una gara per dimostrare chi era più efficiente tra URSS e USA che si trovavano in guerra: LA GUERRA FREDDA.
+Fu una gara per dimostrare chi era più efficiente tra URSS e USA che si trovavano in guerra: **LA GUERRA FREDDA**.
 
 La Guerra Fredda
 ================
 
-Fu chiamata così perché non ci furono conflitti armati tranne qualche piccola battaglia e anche perché si indica la contrapposizione politica, ideologica e militare che venne a crearsi
-intorno al 1947, tra le due potenze principali emerse vincitrici dalla Seconda guerra mondiale.
+Fu chiamata così perché non ci furono conflitti armati tranne qualche piccola battaglia e anche perché con essa si indica la contrapposizione politica, ideologica e militare che venne a
+crearsi intorno al 1947, tra le due potenze principali emerse vincitrici dalla Seconda guerra mondiale.
 
 Si trattò sostanzialmente della contrapposizione tra due grandi ideologie politico-economiche: la democrazia-capitalista da una parte e il socialismo reale-comunismo dall'altro.
 
