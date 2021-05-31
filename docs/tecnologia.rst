@@ -10,16 +10,16 @@ Ormai i trasporti rispetto un secolo fa sono molto più evoluti.
 Oggi abbiamo tantissimi modi per spostarci, dall’auto al treno, oppure dall’aereo allo shuttle. 
 
 Poi esistono mezzi pubblici e mezzi privati
-* Mezzi privati: auto, moto, aereo privato ecc..
-* Mezzi pubblici: aereo, autobus, treni ecc….
 
-Un altro mezzo privato ma che ben presto diventerà accessibile alle persone più ricche è lo shuttle. 
+* **Mezzi privati**: auto, moto, aereo privato ecc..
 
-Lo shuttle è in grado di raggiungere lo spazio. 
+* **Mezzi pubblici**: aereo, autobus, treni ecc….
 
-Oggi non è ancora molto sviluppata la tecnologia dello shuttle e quindi possiamo arrivare ai pianeti più vicini a noi, ma un giorno potremmo varcare questa soglia ed esplorare le meraviglie dell’universo.
+Un altro mezzo privato ma che ben presto diventerà accessibile alle persone più ricche è lo **shuttle** che è in grado di raggiungere lo spazio.
 
-Però lo shuttle non parte direttamente dallo spazio ma da una base a terra.
+Oggi non è ancora molto sviluppata la tecnologia dello shuttle e quindi possiamo arrivare ai pianeti più vicini a noi. Ma un giorno potremmo varcare questa soglia ed esplorare le meraviglie dell’universo.
+
+Lo shuttle non parte direttamente dallo spazio ma da una piattaforma di lancio posta sulla terra.
 
 Aerei Spaziali
 ==============

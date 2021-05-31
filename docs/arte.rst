@@ -7,10 +7,10 @@ Notte Stellata di Van Gogh
 
 **Notte stellata** è uno dei dipinti più famosi al mondo. Realizzato nel 1889 dal Maestro olandese **Vincent van Gogh**, oggi è conservato al Museum of Modern Art di New York.
 
-La **“Notte stellata”** raffigura la visione notturna di un paesaggio di **Saint-Rémy-de-Provence** ed è uno degli ultimi inquietanti dipinti che realizzò l’artista prima di terminare
-tragicamente la sua vita.
+La **“Notte stellata”** raffigura la visione notturna di un paesaggio di **Saint-Rémy-de-Provence**, comune francese della regione della Provenza, ed è uno degli ultimi inquietanti
+dipinti che realizzò l’artista prima di terminare tragicamente la sua vita.
 
-Il pittore s’ispirò alla vista che si apriva sul paesaggio dalla finestra dell’**ospedale psichiatrico Saint-Paul-de-Mausole di Saint-Remy-de-Provence**, nella Francia meridionale,
+Il pittore s’ispirò alla vista che si apriva sul paesaggio dalla finestra dell’**ospedale psichiatrico Saint-Paul-de-Mausole** di Saint-Remy-de-Provence, nella Francia meridionale,
 dove era ricoverato a seguito della sua **instabilità mentale**.
 
 Nella pittura infatti, come nella natura, riusciva a trovare conforto dai suoi squilibri.
@@ -20,7 +20,7 @@ Nella pittura infatti, come nella natura, riusciva a trovare conforto dai suoi s
 **Vincent van Gogh**, Notte stellata (giugno 1889; olio su tela, 73,7 x 92,1 cm; New York, Museum of Modern Art)
 
 Analisi del quadro
-------------------
+==================
 
 I colori accostati dall’artista sono puri e contrastanti.
 

@@ -12,7 +12,7 @@ Musica
 
 L’opera, composta a Monaco nel 1896 da Richard Strauss, comunica un senso di grandiosità che porta lo spettatore a trovarsi nell’infinito cosmico.
 
-E’ per questa sensazione che la colonna musicale è stata scelta per il film **Odissea nello spazio**.
+E’ per questa sensazione che la colonna musicale è stata scelta per il film **2001: Odissea nello spazio**.
 
 L’opera è formata da: flauti, obi, clarinetti, un corno inglese, un clarinetto piccolo, fagotti ecc…..
 
@@ -24,9 +24,11 @@ poi l’**organo** che, dopo la celeberrima esposizione, inaspettatamente risuon
 Nel suo svolgersi il poema cambia facce ed atmosfere. Il tema iniziale di tre suoni diventa soggetto di severe **elaborazioni contrappuntistiche** [#f1]_, la musica scorre tra
 **esplosioni sinfoniche, cenni teatrali e flash cameristici**. [#f2]_
 
-Non manca neppure un veracissimo valzer viennese intonato prima dal violino solo e sviluppato gradualmente dall’ensemble con richiami a Brahms e Dvořàk.
+Non manca neppure un veracissimo valzer viennese intonato prima dal violino solo e sviluppato gradualmente dall’ensemble con richiami a Brahms [#f3]_ e Dvořàk [#f4]_.
 
 .. image:: _images/Strauss_APZ.jpg
 
 .. [#f1] **Contrappunto**: arte di combinare con una data melodia una o più melodie, più o meno autonome.
 .. [#f2] **Musica da camera**: qualsiasi tipo di musica destinato ad un complesso limitato di esecutori.
+.. [#f3] **Johannes Brahms** (1833 – 1897) è stato un compositore, pianista e direttore d'orchestra tedesco del periodo tardo-romantico.
+.. [#f4] **Antonín Leopold Dvořák** (1841 – 1904) è stato un compositore ceco.

@@ -5,12 +5,12 @@ Italiano
 ITALO CALVINO (1923-1980)
 =========================
 
-Italo Calvino è stato uno scrittore italiano.
+**Italo Calvino** è stato uno scrittore italiano.
 
 Ha seguito molte delle principali tendenze letterarie a lui coeve, dal Neorealismo al Postmoderno, mantenendo sempre una certa distanza da esse e svolgendo un percorso di
 ricerca personale e coerente.
 
-Ma oggi noi ci soffermeremo in particolare su una sua opera: “LE COSMICOMICHE”
+Ma oggi noi ci soffermeremo in particolare su una sua opera: **“LE COSMICOMICHE”**
 
 .. image:: _images/italocalvino.png
    :align: center
@@ -34,5 +34,5 @@ L’ambientazione è davvero cosmica: lo sfondo di galassie, nebulose e cataclis
 
 Essa però viene sapientemente a mescolarsi con situazioni di ordinaria quotidianità: si genera da qui l’effetto cosmico sottolineato, per contrasto, nel titolo dell’opera.
 
-Il Protagonista delle Cosmicomiche è **Qfwfq**: un essere indefinito, un organismo primordiale dal nome impronunciabile, bizzarra e vecchissima creatura, che esiste, dice, da quando
+Il protagonista delle cosmicomiche è **Qfwfq**: un essere indefinito, un organismo primordiale dal nome impronunciabile, bizzarra e vecchissima creatura, che esiste, dice, da quando
 ha cominciato a sussistere l’universo e il genere umano.

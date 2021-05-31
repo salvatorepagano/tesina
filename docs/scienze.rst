@@ -12,7 +12,7 @@ Da questo minuscolo e super energetico inizio presero avvio l'espansione e il pr
 .. image:: _images/scienze1.png
 
 Il Bing Bang
-------------
+============
 
 **Big Bang** è un modello cosmologico basato sull'idea che l'universo iniziò a espandersi a velocità elevatissima in un tempo finito nel passato a partire da una condizione di curvatura,
 temperatura e densità estreme, e che questo processo continui tuttora.
