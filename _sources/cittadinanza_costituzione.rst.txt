@@ -16,6 +16,7 @@ Al condannato è consentito di scegliere il metodo.
 
 In Florida tra le opzioni possibili ci sono l’uso di medicinali letali, la sedia elettrica e l’impiccagione.
 
-La pena di morte è un metodo che va contro i diritti umani. Per far comprendere a qualcuno l’errore commesso gli si deve far pagare la pena con la prigione per un periodo di tempo variabile (anche ergastolo) in base al tipo di reato. La pena di morte sarebbe invece per il condannato la via più facile da seguire. 
+La pena di morte è un metodo che va contro i diritti umani. Per far comprendere a qualcuno l’errore commesso gli si dovrebbe far scontare la pena in prigione per un periodo di tempo variabile
+(anche ergastolo) in base all'entità del reato commesso. La pena di morte, per il condannato che ha commesso un reato grave, sarebbe invece la via più facile da seguire.
 
 Per questo l’Italia e la maggior parte delle nazioni nel mondo non accettano la pena di morte e applicano la democrazia.

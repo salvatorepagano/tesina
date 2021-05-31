@@ -21,6 +21,7 @@ Poco dopo Galileo ricevette una denuncia da parte di un sacerdote fiorentino.
 
 Di conseguenza tutti i suoi libri furono censurati per non far diffondere il suo pensiero. 
 
-Nel 1624 lui riprese a riscrivere libri sul suo pensiero, per questo fu condannato di eresia e costretto ad abiurare. 
+Nel 1624 lui riprese a riscrivere libri sul suo pensiero e per questo fu condannato di eresia e costretto ad abiurare.
 
-Non molto tempo fa il 31 ottobre 1992, **papa Giovanni Paolo II**, riconobbe "gli errori commessi" sulla base delle conclusioni dei lavori cui pervenne un'apposita commissione di studio da lui istituita nel 1981, riabilitando Galilei.
+Non molto tempo fa, il 31 ottobre 1992, **papa Giovanni Paolo II** riconobbe "gli errori commessi" sulla base delle conclusioni dei lavori cui pervenne un'apposita commissione di studio da
+lui istituita nel 1981, riabilitando Galilei.
