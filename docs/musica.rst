@@ -12,7 +12,7 @@ Musica
 
 L’opera, composta a Monaco nel 1896 da Richard Strauss, comunica un senso di grandiosità che porta lo spettatore a trovarsi nell’infinito cosmico.
 
-E’ per questa sensazione che la colonna musicale è stata scelta per il film **2001: Odissea nello spazio**.
+E’ per questa sensazione che la colonna musicale è stata scelta per il film **"2001: Odissea nello spazio"**.
 
 L’opera è formata da: flauti, obi, clarinetti, un corno inglese, un clarinetto piccolo, fagotti ecc…..
 

@@ -46,7 +46,11 @@ dei primi uomini sulla Luna.
 
 In questa stazione vennero lanciati tutti i progetti Apollo, dal primo fino all’ultimo.
 
-La stazione subì anche gravi incidenti durante i decolli di alcuni shuttle come quelli prodotti dal disastro del Challenger avvenuto il 28 gennaio 1986.
+La stazione subì anche gravi incidenti. Uno dei momenti più bui della storia della Nasa e di quella dell'esplorazione spaziale in generale fu il disastro del **Challenger**
+avvenuto il 28 gennaio 1986.
 
-La piattaforma di lancio Pad 39-A ospitò tutti i lanci dello Space Shuttle fino al 28 gennaio 1986, quando lo **Space Shuttle Challenger** sarebbe diventato il primo a decollare dalla
-piattaforma di lancio Pad 39-B durante la sfortunata missione che si concluse con il disastro del Challenger e la morte dell'intero equipaggio 73 secondi dopo l'inizio del volo.
+Dopo solo 73 secondi dal lancio, il **Challenger** si disintegrò in aria, in seguito al guasto di una guarnizione nel razzo che provocò una fuoriuscita di fiamme e il cedimento
+del serbatoio esterno dello Shuttle, pieno di ossigeno e idrogeno liquidi.
+
+La capsula contenente l'equipaggio, rimasta intera, proseguì la sua traiettoria orbitale per schiantarsi sull'oceano 2 minuti e 45 secondi dopo la rottura.
+Probabilmente, almeno parte dell'equipaggio era ancora vivo al momento dello schianto.

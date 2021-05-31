@@ -2,8 +2,8 @@
 Arte
 ====
 
-Notte Stellata di Van Gogh
-==========================
+Notte Stellata di Vincent van Gogh
+==================================
 
 **Notte stellata** è uno dei dipinti più famosi al mondo. Realizzato nel 1889 dal Maestro olandese **Vincent van Gogh**, oggi è conservato al Museum of Modern Art di New York.
 
@@ -28,7 +28,7 @@ Il colore è steso con pennellate pastose e a tratti brevi o allungati, che trac
 
 Il paesaggio del quadro mostra la visuale dell’ospedale in cui fu ricoverato l’artista con un pò di tratti aggiuntivi ripresi dal suo stato d’animo in quel momento.
 
-Il cielo che incombe vorticoso sulla tranquillità della cittadina mostra un’energia che sta a simboleggiare la vitalità dell’**universo** di cui l´artista percepisce e ci
+Il cielo che incombe vorticoso sulla tranquillità della cittadina mostra un’energia che sta a simboleggiare la vitalità dell’**universo** di cui l'artista percepisce e ci
 trasmette tutta la potenza.
 
 **Van Gogh** con questo quadro anticipò l’**Espressionismo** privilegiando il lato emotivo della realtà rispetto a quello percepibile oggettivamente tipico dell'**Impressionismo**.
