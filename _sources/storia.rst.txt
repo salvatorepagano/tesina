@@ -49,7 +49,7 @@ della città di Berlino tramite l'omonimo muro e nella figura retorica della cos
 la netta distinzione territoriale e ideologica che si stava venendo a creare tra i due blocchi socioeconomici dominanti.
 
 Le relazioni tra Stati Uniti e Unione Sovietica si indirizzarono successivamente verso il disgelo (o anche, come poi si disse, la distensione), pur non mancando alcune gravi crisi,
-come quella di Berlino del 1959-61, culminata con l'erezione di un muro tra la parte occidentale e quella orientale della città (uno dei più significativi simboli della guerra fredda),
+come quella di Berlino del 1959-61, culminata con la costruzione di un muro tra la parte occidentale e quella orientale della città (uno dei più significativi simboli della guerra fredda),
 e la crisi missilistica di Cuba del 1962, forse il momento in cui maggiormente il mondo intero si sentì sull'orlo di un conflitto nucleare.
 
 Nel 1965, con le proposte sulla non proliferazione delle armi atomiche, si aprì la fase della cosiddetta coesistenza pacifica, accompagnata in realtà da nuove tensioni internazionali.
