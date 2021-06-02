@@ -11,7 +11,7 @@ Le discordanze tra Galileo Galilei e la chiesa
 
 **Galileo** era un matematico, un astronomo e un filosofo.
 
-Nel periodo del 1610 pubblicò il testo scientifico **«Sidereus Nuncius»** che andava contro tutte le idee della Chiesa. Attraverso l'uso del cannocchiale **Galilei** mosse i primi passi
+Nel periodo del 1610 pubblicò il testo scientifico **«Sidereus Nuncius»** che andava contro tutte le idee della Chiesa. Attraverso l'uso del cannocchiale **Galileo** mosse i primi passi
 nell'osservazione dell'universo e racchiuse in questa piccola opera grandi scoperte.
 
 Scoperte che lo porteranno negli anni successivi ad elaborare un nuovo modello astronomico che lo pose in aperto contrasto con la Chiesa Cattolica.
