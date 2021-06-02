@@ -1,4 +1,4 @@
-==========
+t==========
 Tecnologia
 ==========
 
@@ -26,7 +26,6 @@ Aerei Spaziali
 
 .. image:: _images/shuttle.png
 
-Lo shuttle non parte direttamente dallo spazio ma da una piattaforma di lancio posta sulla superficie terrestre.
 
 Per far arrivare nello Spazio persone o cose si utilizzano i razzi vettori che partono dalle rampe di lancio poste sulla superficie terrestre.
 
