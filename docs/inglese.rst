@@ -45,11 +45,11 @@ Why NASA was created
 
 NASA was created largely in response to the Soviet launching of Sputnik in 1957.
 
-It was organized around the National Advisory Committee for Aeronautics (NACA), which had been created by Congress in 1915.
-
 NASA’s organization was well under way by the early years of **Pres. John F. Kennedy’s administration** when he proposed that the United States put a man on the Moon by the end of the 1960s.
 
 To that end, the Apollo program was designed, and in 1969 the U.S. astronaut Neil Armstrong became the first person on the Moon.
 
 Later, uncrewed programs—such as Viking, Mariner, Voyager, and Galileo—explored other bodies of the solar system.
+
+Today the objective of **Nasa** is to bring man to **Mars**
 
