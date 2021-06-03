@@ -37,7 +37,7 @@ Le Roi
 
     «Certainement», lui dit le roi. "Ils m'obéissent immédiatement. Je ne tolère pas l'indiscipline."
 
-Cette phrase et cette image nous font réaliser deux choses: le désir infini et la solitude. en fait dans cette phrase le roi dit de régner sur tout, donc sur l'infini de
+Cette phrase et cette image nous font réaliser deux choses: le désir infini et la solitude. En fait dans cette phrase le roi dit de régner sur tout, donc sur l'infini de
 l'univers quelque chose de tout à fait impossible et on remarque aussi dans l'image que pour cette manie du pouvoir il est isolé de tout et à la fin du chapitre il
 demande le petit prince de rester avec lui.
 
@@ -52,7 +52,7 @@ Le Vain
     “Admirer signifie reconnaître que je suis l'homme le plus beau, le plus élégant, le plus riche et le plus intelligent de la planète"
 
 Cette autre image et cette phrase nous font plutôt comprendre une chose de plus: ce que signifie être vain, cela signifie se croire le plus beau, le plus intelligent de l'univers,
-ce qui conduit à penser que tous les autres sont inférieurs à vous et comme dans le premier cas ça .conduit à s'isoler.
+ce qui conduit à penser que tous les autres sont inférieurs à vous et comme dans le premier cas ça conduit à s'isoler.
 
 L'Ivrogne
 =========
@@ -77,6 +77,6 @@ L'Ivrogne
     "Honte à boire!" et l'ivrogne se referma dans un silence définitif.
 
 L'ivrogne boit pour cacher la honte de boire au lieu d'affronter la situation. L'ivrogne, le vain et le roi ont tous des problèmes généralisés sur la Terre qui sera
-la sixième planète que le petit prince visitera, ces trois personnages plus les autres nous font comprendre que où que nous soyons dans l'univers nous
+la sixième planète que le petit prince visitera, ces trois personnages plus les autres nous font comprendre que où que nous soyons dans l'Univers nous
 trouverons toujours ces problèmes où c est la vie. en fait, comme le dit la phrase la plus importante du Petit Prince
 «On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux."
