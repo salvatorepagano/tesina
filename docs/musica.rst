@@ -14,7 +14,7 @@ L’opera, composta a Monaco nel 1896 da Richard Strauss, comunica un senso di g
 
 E’ per questa sensazione che la colonna musicale è stata scelta per il film **"2001: Odissea nello spazio"**.
 
-L’opera è formata da: flauti, obi, clarinetti, un corno inglese, un clarinetto piccolo, fagotti ecc…..
+L’opera è formata da: flauti, oboe, clarinetti, un corno inglese, un clarinetto piccolo, fagotti ecc…..
 
 Il brano dura circa trenta minuti ed è diviso in nove movimenti, con diversi riferimenti musicali e alcuni momenti melodicamente molto belli.
 
