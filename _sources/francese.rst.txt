@@ -6,9 +6,9 @@ Le Livre
 ========
 **Le Petit Prince** est une histoire pour enfants écrite en 1942 par **Antoine de Saint-Exupéry**.
 
-Publié en 1943 à New York simultanément à sa traduction anglaise, c'est une œuvre poétique et philosophique sous l'apparence d'un conte pour enfants.
+Publié en 1943 à New York simultanéament à sa traduction anglaise, c'est une œuvre poétique et philosophique sous l'apparence d'un conte pour enfants.
 
-Traduit en quatre cent cinquante-sept langues et dialectes, Le Petit Prince est le deuxième ouvrage le plus traduit au monde après la Bible.
+Traduit en quatre cent cinquante-sept langues et dialectes, le Petit Prince est le deuxième ouvrage le plus traduit au monde après la Bible.
 
 .. image:: _images/lepetitprince1.jpg
    :height: 300px
@@ -39,7 +39,7 @@ Le Roi
 
 Cette phrase et cette image nous font réaliser deux choses: le désir infini et la solitude. En fait dans cette phrase le roi dit de régner sur tout, donc sur l'infini de
 l'univers quelque chose de tout à fait impossible et on remarque aussi dans l'image que pour cette manie du pouvoir il est isolé de tout et à la fin du chapitre il
-demande le petit prince de rester avec lui.
+demande au de rester avec lui.
 
 Le Vain
 =======
@@ -77,6 +77,5 @@ L'Ivrogne
     "Honte à boire!" et l'ivrogne se referma dans un silence définitif.
 
 L'ivrogne boit pour cacher la honte de boire au lieu d'affronter la situation. L'ivrogne, le vain et le roi ont tous des problèmes généralisés sur la Terre qui sera
-la sixième planète que le petit prince visitera, ces trois personnages plus les autres nous font comprendre que où que nous soyons dans l'Univers nous
-trouverons toujours ces problèmes où c est la vie. en fait, comme le dit la phrase la plus importante du Petit Prince
+la sixième planète que le petit prince visitera, ces trois personnages plus les autres. En fait, comme le dit la phrase la plus importante du Petit Prince
 «On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux."
